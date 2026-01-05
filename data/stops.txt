@@ -1,0 +1,77 @@
+1,Shahdara,metro,31.599,74.303
+2,Niazi Chowk,metro,31.582,74.31
+3,Timber Market,metro,31.577,74.312
+4,Azadi Chowk,metro,31.571,74.313
+5,Bhatti Chowk,metro,31.563,74.315
+6,Katchery,metro,31.567,74.309
+7,Civil Secretariat,metro,31.569,74.306
+8,MAO College,metro,31.572,74.303
+9,Janazgah,metro,31.576,74.3
+10,Qartaba Chowk,metro,31.581,74.297
+11,Shama,metro,31.589,74.292
+12,Ichhra,metro,31.595,74.288
+13,Canal,metro,31.602,74.282
+14,Qaddafi Stadium,metro,31.606,74.279
+15,Kalma Chowk,metro,31.61,74.275
+16,Model Town,metro,31.614,74.27
+17,Naseerabad,metro,31.621,74.265
+18,Ittefaq Hospital,metro,31.629,74.26
+19,Qainchi,metro,31.638,74.255
+20,Ghazi Chowk,metro,31.647,74.25
+21,Chungi Amar Sidhu,metro,31.655,74.245
+22,Kamahan,metro,31.66,74.24
+23,Attari Saroba,metro,31.665,74.235
+24,Nishtar Colony,metro,31.67,74.23
+25,Youhanabad,metro,31.675,74.225
+26,Daroghewala,metro,31.47,74.3
+27,Gajjumata,metro,31.466,74.295
+28,Ali Town,orange,31.466,74.27
+29,Thokar Niaz Baig,orange,31.472,74.282
+30,Canal View,orange,31.478,74.29
+31,Hanjarwal,orange,31.484,74.298
+32,Wahdat Road,orange,31.49,74.305
+33,Awan Town,orange,31.496,74.312
+34,Sabzazar,orange,31.502,74.319
+35,Khatm-e-Nabuwat,orange,31.508,74.326
+36,Salahudin Road,orange,31.514,74.333
+37,Bund Road,orange,31.52,74.34
+38,Samanabad,orange,31.526,74.347
+39,Gulshan-e-Ravi,orange,31.532,74.354
+40,Chauburji,orange,31.538,74.361
+41,Anarkali,orange,31.544,74.368
+42,G.P.O,orange,31.55,74.375
+43,Lakshmi,orange,31.556,74.382
+44,Railway Station,hub,31.552,74.352
+45,Sultanpura,orange,31.56,74.39
+46,U.E.T,orange,31.566,74.397
+47,Baghbanpura,orange,31.572,74.404
+48,Shalamar,orange,31.578,74.411
+49,Pakistan Mint,orange,31.584,74.418
+50,Mahmood Booti,orange,31.59,74.425
+51,Salamatpura,orange,31.596,74.432
+52,Islam Park,orange,31.602,74.439
+53,Dera Gujran,orange,31.608,74.446
+54,Raiwind Road,orange,31.614,74.453
+100,Ek Moriya,speedo,31.591,74.331
+101,Kashmiri Gate,speedo,31.588,74.325
+102,Lari Adda,speedo,31.584,74.32
+103,Texali Gate,speedo,31.579,74.316
+104,Main Market,speedo,31.521,74.348
+105,Jail Road,speedo,31.535,74.335
+106,Lytton Road,speedo,31.555,74.315
+107,Lower Mall,speedo,31.568,74.308
+108,Depot Chowk,speedo,31.485,74.355
+109,Quaid-e-Azam,speedo,31.475,74.345
+110,Airport,speedo,31.52,74.405
+111,Valencia,speedo,31.405,74.265
+112,Multan Road,speedo,31.455,74.255
+113,LDA Avenue,speedo,31.425,74.245
+114,Johar Town,speedo,31.465,74.295
+115,Expo Center,speedo,31.455,74.275
+116,Gulberg,speedo,31.515,74.345
+117,MM Alam Road,speedo,31.518,74.35
+118,Ferozepur Road,speedo,31.49,74.33
+119,Mozang,speedo,31.55,74.32
+200,Electro Sector A,electro,31.54,74.33
+201,Electro Sector B,electro,31.545,74.335
+202,Electro Sector C,electro,31.55,74.34

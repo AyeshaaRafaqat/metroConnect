@@ -1,0 +1,40 @@
+{
+  "system": [
+    {
+      "id": 1,
+      "msg": "Welcome to the MetroConnect Community! \ud83d\ude87",
+      "timestamp": "2026-01-01 09:00:00"
+    },
+    {
+      "id": 2,
+      "msg": "Transit Tip: Orange Line is 5 mins faster during rain. \u2614",
+      "timestamp": "2026-01-02 10:15:00"
+    }
+  ],
+  "admin": [
+    {
+      "id": 1,
+      "msg": "Maintenance on Orange Line sector 4 completed.",
+      "timestamp": "2026-01-03 14:00:00"
+    }
+  ],
+  "lahore_commuter": [
+    {
+      "id": 1,
+      "msg": "Bus 14 is quite crowded today, better take the Metro.",
+      "timestamp": "2026-01-04 12:30:00"
+    },
+    {
+      "id": 2,
+      "msg": "Found a lost card at Ali Town station. Handed to staff.",
+      "timestamp": "2026-01-04 16:45:00"
+    }
+  ],
+  "ayesha": [
+    {
+      "id": 1,
+      "msg": "i need updates regarding thokar niaz baig station.is there anyone at the moment and online aswell?",
+      "timestamp": "2026-01-04 22:52:26 (Edited)"
+    }
+  ]
+}

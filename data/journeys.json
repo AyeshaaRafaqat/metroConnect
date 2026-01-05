@@ -1,0 +1,188 @@
+{
+  "admin": [
+    {
+      "from": "Ali Town",
+      "to": "Anarkali",
+      "fare": 40,
+      "timestamp": "2026-01-01 10:00:00"
+    },
+    {
+      "from": "Ali Town",
+      "to": "Anarkali",
+      "fare": 40,
+      "timestamp": "2026-01-02 11:30:00"
+    },
+    {
+      "from": "Anarkali",
+      "to": "Dera Gujran",
+      "fare": 60,
+      "timestamp": "2026-01-03 09:15:00"
+    },
+    {
+      "from": "Shahdara",
+      "to": "Gajjumata",
+      "fare": 30,
+      "timestamp": "2026-01-04 08:00:00"
+    }
+  ],
+  "ayesha": [
+    {
+      "from": "Ali Town",
+      "to": "Anarkali",
+      "fare": 40,
+      "timestamp": "2026-01-05 00:38:23"
+    },
+    {
+      "from": "Ali Town",
+      "to": "Anarkali",
+      "fare": 40,
+      "timestamp": "2026-01-05 00:38:23"
+    },
+    {
+      "from": "Gajjumata",
+      "to": "Shahdara",
+      "fare": 30,
+      "timestamp": "2026-01-05 00:38:23"
+    },
+    {
+      "from": "johar town",
+      "to": "gulberg",
+      "fare": 20,
+      "timestamp": "2026-01-05 00:40:58"
+    },
+    {
+      "from": "johar town",
+      "to": "U.E.T",
+      "fare": 75,
+      "timestamp": "2026-01-05 02:35:20"
+    },
+    {
+      "from": "johar town",
+      "to": "gulberg",
+      "fare": 20,
+      "timestamp": "2026-01-05 02:36:01"
+    },
+    {
+      "from": "Ali Town",
+      "to": "U.E.T",
+      "fare": 45,
+      "timestamp": "2026-01-05 02:36:17"
+    },
+    {
+      "from": "johar town",
+      "to": "gulberg",
+      "fare": 20,
+      "timestamp": "2026-01-05 02:47:54"
+    },
+    {
+      "from": "Ali Town",
+      "to": "U.E.T",
+      "fare": 45,
+      "timestamp": "2026-01-05 02:55:43"
+    },
+    {
+      "from": "Ali Town",
+      "to": "Awan Town",
+      "fare": 30,
+      "timestamp": "2026-01-05 20:32:33"
+    },
+    {
+      "from": "johar town",
+      "to": "gulberg",
+      "fare": 20,
+      "timestamp": "2026-01-05 20:42:04"
+    },
+    {
+      "from": "Anarkali",
+      "to": "Expo Center",
+      "fare": 75,
+      "timestamp": "2026-01-05 20:43:32"
+    },
+    {
+      "from": "Airport",
+      "to": "Ali Town",
+      "fare": 95,
+      "timestamp": "2026-01-05 20:47:08"
+    },
+    {
+      "from": "johar town",
+      "to": "gulberg",
+      "fare": 20,
+      "timestamp": "2026-01-05 20:48:49"
+    },
+    {
+      "from": "johar town",
+      "to": "gulberg",
+      "fare": 20,
+      "timestamp": "2026-01-05 21:17:45"
+    },
+    {
+      "from": "johar town",
+      "to": "gulberg",
+      "fare": 20,
+      "timestamp": "2026-01-05 21:31:58"
+    },
+    {
+      "from": "Anarkali",
+      "to": "Ali Town",
+      "fare": 40,
+      "timestamp": "2026-01-05 21:38:20"
+    },
+    {
+      "from": "Awan Town",
+      "to": "Azadi Chowk",
+      "fare": 70,
+      "timestamp": "2026-01-05 21:41:14"
+    },
+    {
+      "from": "Ali Town",
+      "to": "Anarkali",
+      "fare": 40,
+      "timestamp": "2026-01-05 21:46:50"
+    },
+    {
+      "from": "johar town",
+      "to": "gulberg",
+      "fare": 20,
+      "timestamp": "2026-01-05 21:48:01"
+    }
+  ],
+  "ayeshaa": [
+    {
+      "from": "Ali Town",
+      "to": "Anarkali",
+      "fare": 40,
+      "timestamp": "2026-01-05 20:05:11"
+    },
+    {
+      "from": "Ali Town",
+      "to": "Anarkali",
+      "fare": 40,
+      "timestamp": "2026-01-05 20:05:11"
+    },
+    {
+      "from": "Gajjumata",
+      "to": "Shahdara",
+      "fare": 30,
+      "timestamp": "2026-01-05 20:05:11"
+    },
+    {
+      "from": "johar town",
+      "to": "gulberg",
+      "fare": 20,
+      "timestamp": "2026-01-05 20:05:26"
+    },
+    {
+      "from": "My Current Location",
+      "to": "gulberg",
+      "fare": 20,
+      "timestamp": "2026-01-05 20:08:07"
+    },
+    {
+      "from": "My Current Location",
+      "to": "gulberg",
+      "fare": 20,
+      "timestamp": "2026-01-05 20:22:55"
+    }
+  ]
+}
