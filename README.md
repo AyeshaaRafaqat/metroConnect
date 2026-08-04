@@ -1,4 +1,4 @@
-# =MetroConnect : Intelligent City Transit
+#MetroConnect : Intelligent City Transit
 
 [![Python Version](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/)
 [![UI](https://img.shields.io/badge/UI-Premium_Rounded-gold.svg)](#-premium-high-fidelity-ui)
