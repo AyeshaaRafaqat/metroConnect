@@ -1,4 +1,4 @@
-# 🚆 MetroConnect PRO: Intelligent City Transit & Safety Engine
+# =MetroConnect : Intelligent City Transit
 
 [![Python Version](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/)
 [![UI](https://img.shields.io/badge/UI-Premium_Rounded-gold.svg)](#-premium-high-fidelity-ui)
@@ -8,16 +8,16 @@
 
 ---
 
-## 🚀 Key Innovation: Tri-Modal Route Optimization
+##  Key Innovation: Tri-Modal Route Optimization
 Unlike standard apps that give a single path, MetroConnect PRO executes **three distinct graph objectives** simultaneously to empower user choice:
 
-1.  **⚡ Flash Route (Time Optimized)**: Uses **Dijkstra's Algorithm** with time weights to find the absolute quickest path.
-2.  **💰 Budget Route (Cost Optimized)**: Dijkstra's logic weighted by distance/fare, finding the most economical way to travel.
-3.  **🧘 Relax Route (Transfer Optimized)**: A specialized **BFS (Breadth-First Search)** that minimizes switches between lines, prioritizing passenger comfort.
+1.  ** Flash Route (Time Optimized)**: Uses **Dijkstra's Algorithm** with time weights to find the absolute quickest path.
+2.  ** Budget Route (Cost Optimized)**: Dijkstra's logic weighted by distance/fare, finding the most economical way to travel.
+3.  ** Relax Route (Transfer Optimized)**: A specialized **BFS (Breadth-First Search)** that minimizes switches between lines, prioritizing passenger comfort.
 
 ---
 
-## 💎 Premium High-Fidelity UI
+##  Premium High-Fidelity UI
 The application features a **bespoke design system** built from scratch in Tkinter:
 *   **High-Precision Rounded UI**: A custom-engineered geometry engine for smooth, anti-aliased container corners (25px radius).
 *   **Glassmorphism Effects**: Integration of Windows Acrylic/Mica effects for a deep, professional desktop aesthetic.
@@ -25,7 +25,7 @@ The application features a **bespoke design system** built from scratch in Tkint
 
 ---
 
-## 🧠 Core Engineering & DSA
+##  Core Engineering & DSA
 This project serves as a showcase for advanced Data Structures and Algorithms:
 
 | Module | Data Structure | Algorithm / Logic |
@@ -40,23 +40,23 @@ This project serves as a showcase for advanced Data Structures and Algorithms:
 
 ---
 
-## 🌱 Eco-Impact & Sustainability
+##  Eco-Impact & Sustainability
 MetroConnect PRO includes a built-in **Carbon Footprint Calculator**. It analyzes the total distance of every public transit route versus private car travel, providing users with a "Green Impact" score to encourage sustainable city commuting.
 
 ---
 
-## 🛡️ City Safety Command
+##  City Safety Command
 A dedicated security module that allows users to:
 *   Visualize the **City Security Hierarchy** managed via a General Tree structure.
 *   Trigger an **Emergency BFS Pulse** that scans the urban graph to find the nearest security post relative to the user's current train stop.
 
 ---
 
-## 🛠️ How to Launch
+##  How to Launch
 1.  **Ensure Python 3.8+** is installed on your Windows environment.
 2.  **Clone the Repo**: `git clone https://github.com/AyeshaaRafaqat/metroConnectF.git`
 3.  **Run**: `python main.py`
 4.  **Audio**: Use the **Journey Narrative** controls to hear your route plan read out by the intelligent audio engine.
 
 ---
-Developed by **Ayeshaa Rafaqat** for the **Advanced Data Structures & Engineering Evaluation**.
+
