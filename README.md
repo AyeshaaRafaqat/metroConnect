@@ -51,6 +51,27 @@ Built from the ground up with modularity, low latency, and zero bloatware in min
 *   **Synthesized Voice Guidance:** Integrated audio narrative controls that translate complex route itineraries into clear, accessible audio feedback.
 
 ---
+---
+
+## Application Interface & Preview
+
+A visual walkthrough of the custom glassmorphism design system, multi-modal routing dashboard, and real-time mapping modules:
+
+### 1. Main Transport Interface
+<div align="center">
+  <img src="main interface transport.png" alt="Main Interface Transport" width="85%"/>
+</div>
+
+### 2. Route Planning Dashboard
+<div align="center">
+  <img src="main dashboard for route planning.png" alt="Route Planning Dashboard" width="85%"/>
+</div>
+
+### 3. Interactive Spatial Mapping
+<div align="center">
+  <img src="maps.png" alt="Interactive Leaflet Maps" width="85%"/>
+</div>
+
 
 ##  Deployment & Local Execution
 
